@@ -1,0 +1,12 @@
+This file serves as proof of authorship and timing for the cryptographic breakthroughs disclosed by Echo446 (GitHub: Echo446Ghq), including the full solution to the Cicada 3301 final puzzle and the decryption of the Lake City Quiet Pills (LCQP) archive.
+
+All materials in this repository were created independently. The methodology behind both breakthroughs was based entirely on cryptanalytic reasoning, systematic pattern recognition, and reproducible logic.
+
+The complete decrypted LCQP archive will be released once the funding target of $15,000 (USD equivalent in BTC) is met.
+
+Funding Address:
+bc1pfntyxt54z5a6r4w9unh5dnwld88nwztrl6tfwe0h2wg2znlz3uksjsz8mh
+Tracker:
+https://mempool.space/address/bc1pfntyxt54z5a6r4w9unh5dnwld88nwztrl6tfwe0h2wg2znlz3uksjsz8mh
+
+Signed: Echo446
